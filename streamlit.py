@@ -2,7 +2,7 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from PIL import Image
-#import cv2
+import cv2
 
 model_path=r'C:\Users\user\Desktop\Graduation\chest_model_balanced.h5'
 
